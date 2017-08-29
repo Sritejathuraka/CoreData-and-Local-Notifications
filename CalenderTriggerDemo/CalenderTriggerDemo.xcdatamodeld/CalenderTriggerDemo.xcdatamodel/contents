@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Detail" representedClassName="DetailMo" syncable="YES" codeGenerationType="class">
+        <attribute name="date_day" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_hour" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_minute" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_month" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_year" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Detail" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
